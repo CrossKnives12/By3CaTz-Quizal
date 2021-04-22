@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 496bfee837b103940a4756aa2cd98329
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: adf3e29642c81b2429f61e5c2d411614
+  - enabled: 1
+    path: Assets/Scenes/GameOne.unity
+    guid: 098dffa5c4addbe45bd97262b5dbbfe7
+  - enabled: 1
+    path: Assets/Scenes/ScoreScene.unity
+    guid: 2e0805742f49cac4b96dd73e20b495d2
+  - enabled: 1
+    path: Assets/Scenes/ContentScene.unity
+    guid: fa328e2642b9cc542b5e9b65b33fe849
+  - enabled: 1
+    path: Assets/Scenes/Index/AEarly.unity
+    guid: 2c602e31e645f4049b9f7b3c46ad38e8
+  - enabled: 1
+    path: Assets/Scenes/Index/BFirst.unity
+    guid: c12ad3744b3f6ef42a706e96ca435861
+  - enabled: 1
+    path: Assets/Scenes/Index/BFirst2.unity
+    guid: ae6465ad38aa38440a7543265f1df7c2
+  - enabled: 1
+    path: Assets/Scenes/Index/BFirst3.unity
+    guid: 47e9586dd04b73d4f800415801a07bb8
+  - enabled: 1
+    path: Assets/Scenes/Index/CSecond.unity
+    guid: 9c10a36a4101749408d1c9964f73609d
+  - enabled: 1
+    path: Assets/Scenes/Index/CSecond2.unity
+    guid: 13e5383654a39394ca2827fc64fffc1b
+  - enabled: 1
+    path: Assets/Scenes/Index/CSecond3.unity
+    guid: a215f64c9c15ae94a9690703580860ad
+  m_configObjects: {}
